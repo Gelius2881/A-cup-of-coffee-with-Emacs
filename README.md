@@ -1,1 +1,1 @@
-# A-cup-of-coffee-with-Emacs
+# Coffee-Emacs
